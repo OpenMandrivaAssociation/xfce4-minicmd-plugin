@@ -1,7 +1,7 @@
 Summary:	Minicmd plugin for the Xfce panel
 Name:		xfce4-minicmd-plugin
 Version:	0.4.0
-Release:	%mkrel 10
+Release:	%mkrel 11
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
 URL:		http://xfce4-goodies.berlios.de
