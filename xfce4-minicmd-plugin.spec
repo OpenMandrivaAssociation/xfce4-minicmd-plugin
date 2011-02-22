@@ -8,6 +8,7 @@ URL:		http://xfce4-goodies.berlios.de
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	xfce4-panel >= 4.4.2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
+BuildRequires:	libxfcegui4-devel
 BuildRequires:	perl(XML::Parser)
 Obsoletes:	xfce-minicmd-plugin
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
