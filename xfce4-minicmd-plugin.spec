@@ -4,7 +4,7 @@ Version:	0.4.0
 Release:	12
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-URL:		http://xfce4-goodies.berlios.de
+URL:		https://xfce4-goodies.berlios.de
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	xfce4-panel >= 4.4.2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
